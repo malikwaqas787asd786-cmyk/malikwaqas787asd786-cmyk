@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikwaqas787asd786-cmyk&label=Profile%20views&color=0e75b6&style=flat" alt="malikwaqas787asd786-cmyk" /> </p>
 
-- 💬 Ask me about **## 👨‍💻I am an aspiring Data Scientist and Data Analyst with a strong interest in working with data and solving real-world problems 📊 Skilled in Python, Pandas, NumPy, and Matplotlib 🤖 Learning Machine Learning and predictive modeling 📈 Passionate about data analysis and visualization 🧠 Building projects to improve practical experience 🚀 Always learning new tools and technologies**
+ **## 👨‍💻I am an aspiring Data Scientist and Data Analyst with a strong interest in working with data and solving real-world problems 📊 Skilled in Python, Pandas, NumPy, and Matplotlib 🤖 Learning Machine Learning and predictive modeling 📈 Passionate about data analysis and visualization 🧠 Building projects to improve practical experience 🚀 Always learning new tools and technologies**
 
 - 📫 How to reach me **malikwaqas787asd786@gmail.com**
 
-- ⚡ Fun fact **I think I am a programmer😒**
+**I think I am a programmer😒**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
